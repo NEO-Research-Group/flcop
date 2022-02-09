@@ -1,0 +1,2 @@
+# flcop
+Optimising Federated Learning
